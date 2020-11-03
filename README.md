@@ -43,8 +43,8 @@ time to get it in my nerve so for better understanding and more clear knowledge 
 
 ---
 # Authors and Acknowledgments  
-*Author: Mohammad Intesar Inan
-*Slate Theme Author: mattgraham
+- Author: Mohammad Intesar Inan  
+- Slate Theme Author: mattgraham
 
 ---
 # FAQs  
