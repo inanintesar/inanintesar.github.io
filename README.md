@@ -47,7 +47,7 @@ time to get it in my nerve so for better understanding and more clear knowledge 
 *Slate Theme Author: mattgraham
 
 ---
-#FAQs  
+# FAQs  
  **Can I get my Github repository on my local system?**  
  Yes, you can get your repository on your local system by going to your repository in **Github Page** and there you should see an option to download or clone your repository. Once you do that you can use it in your own Desktop.
 
