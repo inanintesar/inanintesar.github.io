@@ -2,7 +2,7 @@
 Acknowledging and understanding a project is conveniently done through README.
 It contains instructions and material to grasp full knowledge about the project.
 Simply text file is a README that describes and initiates projects. The major
-benefit that comes with using README is it's effortless and replies to many
+benefit that comes with using README is it's dfdeffortless and replies to many
 regular queries that people will generally ask while installing the project.
 ---
 # Ways on presenting your Resume on GitHub Pages
