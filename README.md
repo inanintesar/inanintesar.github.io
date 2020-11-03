@@ -6,7 +6,7 @@ It contains instructions and material to grasp full knowledge about the project.
 
 ![](https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif)  
 
-![add](resume-gif.gif)
+![resume_gif](resume-gif.GIF)
 
 
 ---
