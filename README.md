@@ -50,11 +50,11 @@ For this tutorial, you will need two things:
    |Step 5|Select **Add a README File**|
    |Step 6|Click **Create Repository**|  
 
-  <img src="repo.png" width="555"/>  
+  <img src="repo.png">  
 
 
   2. **Making the Resume and adding it to Repository:**  
-  
+
    |Step  |Instructions|
    |:-----:|:------------:|
    |Step 1|Open **GitHub Desktop**|
@@ -68,8 +68,8 @@ For this tutorial, you will need two things:
 
    > Finally, you will see your index.md in your repository.  
 
-  <img src="index.mdpic.png" width="500"/> <img src="committomainpic.png" width="500"/>
-  <img src="pushtooriginpic.png" width="500"/>  
+  <img src="index.mdpic.png"> <img src="committomainpic.png">
+  <img src="pushtooriginpic.png">  
 
 
   3. **Use Jekyll to add theme in your resume:**
@@ -91,7 +91,7 @@ For this tutorial, you will need two things:
    > Adding Jekyll theme will add a new file in your repository named  **_config.yml**.
    This file will hold only the name of the Jekyll theme you selected. I selected Leap Day.
 
-  <img src="settingspic.png" width="500"/> <img src="githubpagepic.png" width="500"/> <img src="leapdaypic.png" width="500"/>   
+  <img src="settingspic.png"> <img src="githubpagepic.png"> <img src="leapdaypic.png">   
 
 ---
 
