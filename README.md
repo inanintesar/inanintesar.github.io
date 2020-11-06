@@ -37,35 +37,35 @@ For this tutorial, you will need two things:
 
   # Steps
   1. **Building a Repository:**    
-  A Repository is a basic option we get once we sign in on our GitHub and
-  instructs us to create a repository. Like we do to any of our downloaded
-  documents on our pc, we name the file and the same goes for a repository where you enter a name for it. For instance, I have named my repository 'inanintesar.github.io'.
+   A Repository is a basic option we get once we sign in on our GitHub and
+   instructs us to create a repository. Like we do to any of our downloaded
+   documents on our pc, we name the file and the same goes for a repository where you enter a name for it. For instance, I have named my repository 'inanintesar.github.io'.
 
-  |Step  |Instructions|
-  |:-----:|:------------:|
-  |Step 1|Click **+** at the most upper-right corner.|
-  |Step 2|Select **New Repository**|
-  |Step 3|Enter a suitable name ending with **.github.io** under **Resporitory Name**|
-  |Step 4|Click **Private** or **Public** according to the requirement|
-  |Step 5|Select **Add a README File**|
-  |Step 6|Click **Create Repository**|  
+   |Step  |Instructions|
+   |:-----:|:------------:|
+   |Step 1|Click **+** at the most upper-right corner.|
+   |Step 2|Select **New Repository**|
+   |Step 3|Enter a suitable name ending with **.github.io** under **Resporitory Name**|
+   |Step 4|Click **Private** or **Public** according to the requirement|
+   |Step 5|Select **Add a README File**|
+   |Step 6|Click **Create Repository**|  
 
   <img src="repo.png" width="555"/>  
 
 
   2. **Making the Resume and adding it to Repository:**
-  |Step  |Instructions|
-  |:-----:|:------------:|
-  |Step 1|Open **GitHub Desktop**|
-  |Step 2|Select **Open In Atom**|
-  |Step 3|Make your Resume|
-  |Step 4|Save your Resume as **index.md** file|
-  |Step 5|Go to **GitHub desktop**|
-  |Step 6|Click **Commit to main** once you see your updated **index.md**|
-  |Step 7|Select **Push Origin**|
-  |Step 8|Go to [GitHub](www.github.com) and refresh it.|
+   |Step  |Instructions|
+   |:-----:|:------------:|
+   |Step 1|Open **GitHub Desktop**|
+   |Step 2|Select **Open In Atom**|
+   |Step 3|Make your Resume|
+   |Step 4|Save your Resume as **index.md** file|
+   |Step 5|Go to **GitHub desktop**|
+   |Step 6|Click **Commit to main** once you see your updated **index.md**|
+   |Step 7|Select **Push Origin**|
+   |Step 8|Go to [GitHub](www.github.com) and refresh it.|
 
-  > Finally, you will see your index.md in your repository.  
+   > Finally, you will see your index.md in your repository.  
 
   <img src="index.mdpic.png" width="500"/> <img src="committomainpic.png" width="500"/>
   <img src="pushtooriginpic.png" width="500"/>  
@@ -73,22 +73,22 @@ For this tutorial, you will need two things:
 
   3. **Use Jekyll to add theme in your resume:**
 
-  > According to _Etter's Book_ you should make static websites. Mainly because of their speed, simplicity, portability, and security. You can host static websites practically anywhere, as they require no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory.
+   > According to _Etter's Book_ you should make static websites. Mainly because of their speed, simplicity, portability, and security. You can host static websites practically anywhere, as they require no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory.
 
-  By the help of Jekyll theme you can customize the appearance of your site. Basically,
-  Jekyll theme specify plugins and pull out assets, includes and layouts in a way that can be overridden by your site's content. In conclusion, Jekyll is a software which render plain text to static websites.
+   By the help of Jekyll theme you can customize the appearance of your site. Basically,
+   Jekyll theme specify plugins and pull out assets, includes and layouts in a way that can be overridden by your site's content. In conclusion, Jekyll is a software which render plain text to static websites.
 
-  |Step  |Instructions|
-  |:-----:|:------------:|
-  |Step 1|Click **settings** under Repository name.|
-  |Step 2|Scroll through **GitHub Pages**|
-  |Step 3|Click **Choose a theme**|
-  |Step 4|Select a **Theme** from options provided|
-  |Step 5|Click **Select Theme**|
-  |Step 6|Refresh it.|
+   |Step  |Instructions|
+   |:-----:|:------------:|
+   |Step 1|Click **settings** under Repository name.|
+   |Step 2|Scroll through **GitHub Pages**|
+   |Step 3|Click **Choose a theme**|
+   |Step 4|Select a **Theme** from options provided|
+   |Step 5|Click **Select Theme**|
+   |Step 6|Refresh it.|
 
-  > Adding Jekyll theme will add a new file in your repository named  **_config.yml**.
-  This file will hold only the name of the Jekyll theme you selected. I selected Leap Day.
+   > Adding Jekyll theme will add a new file in your repository named  **_config.yml**.
+   This file will hold only the name of the Jekyll theme you selected. I selected Leap Day.
 
   <img src="settingspic.png" width="500"/> <img src="githubpagepic.png" width="500"/> <img src="leapdaypic.png" width="500"/>   
 
@@ -120,7 +120,7 @@ For this tutorial, you will need two things:
 # Authors and Acknowledgments  
  * Author: Mohammad Intesar Inan  
  * Group Member
-  * [Nicole Ciceron](https://github.com/nicoleciceron/nicoleciceron.github.io)
-  * [Shrey Malhan](https://github.com/Shreymalhan1/Shreymalhan1.github.io)  
+   * [Nicole Ciceron](https://github.com/nicoleciceron/nicoleciceron.github.io)
+   * [Shrey Malhan](https://github.com/Shreymalhan1/Shreymalhan1.github.io)  
 
 ---  
