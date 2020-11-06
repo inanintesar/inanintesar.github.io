@@ -53,7 +53,8 @@ For this tutorial, you will need two things:
   <img src="repo.png" width="555"/>  
 
 
-  2. **Making the Resume and adding it to Repository:**
+  2. **Making the Resume and adding it to Repository:**  
+  
    |Step  |Instructions|
    |:-----:|:------------:|
    |Step 1|Open **GitHub Desktop**|
