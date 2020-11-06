@@ -2,15 +2,17 @@
 
 Acknowledging and understanding a project is conveniently done through README. It contains instructions and material to grasp full knowledge about the project. This readme is meant to give you an overall idea of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll. The steps described in this readme are followed by _Andrew Etter's Book Modern Technical Writing_ to provide a good quality functional documentation.  
 
-  > WHY README?
+  > WHY README?  
   The major benefit that comes with using README is it's effortless and replies to many regular queries that people will generally ask while installing and using the project.  
+
+---    
 
 # What Is GitHub and Markdown?  
 
-  > *GitHub*
+  > GitHub:  
   GitHub is a website for developers and programmers to collaboratively work on code. One of the most important benefit of GitHub is its version control system, which allows for seamless collaboration without the integrity of the original project. Everything on GitHub for example files or project are examples of open-source software.
 
-  > *Markdown*  
+  > Markdown:  
   Markdown is an alternative to HTML. According to _Etter's Book_ markdown is simultaneously incredible and infuriating, wonderful and maddening. Markdown has become the new standard for text that will be published online. Its one of the most widely used lightweight markup language with the cleanest syntax.
 
 ---
@@ -31,10 +33,10 @@ For this tutorial, you will need two things:
 ---  
 # Heading Forward  
 
-  > Once you have a account in GitHub, you can continue downloading **GitHub desktop** on your device and easily sign in with the same email address.  
+  > Once you have a account in GitHub, you can continue downloading **GitHub desktop** on your device and easily sign in with the same email address.
 
   # Steps
-  1. ## Building a Repository:    
+  1. **Building a Repository:**    
   A Repository is a basic option we get once we sign in on our GitHub and
   instructs us to create a repository. Like we do to any of our downloaded
   documents on our pc, we name the file and the same goes for a repository where you enter a name for it. For instance, I have named my repository 'inanintesar.github.io'.
@@ -48,26 +50,28 @@ For this tutorial, you will need two things:
   |Step 5|Select **Add a README File**|
   |Step 6|Click **Create Repository**|  
 
-  <img src="repo.png" width="300"/>   
+  <img src="repo.png" width="555"/>  
 
-  2. ## Making the Resume and adding it to Repository:
+
+  2. **Making the Resume and adding it to Repository:**
   |Step  |Instructions|
   |:-----:|:------------:|
   |Step 1|Open **GitHub Desktop**|
   |Step 2|Select **Open In Atom**|
   |Step 3|Make your Resume|
   |Step 4|Save your Resume as **index.md** file|
-  |Step 5|Go to GitHub desktop|
+  |Step 5|Go to **GitHub desktop**|
   |Step 6|Click **Commit to main** once you see your updated **index.md**|
   |Step 7|Select **Push Origin**|
   |Step 8|Go to [GitHub](www.github.com) and refresh it.|
 
   > Finally, you will see your index.md in your repository.  
 
-  <img src="index.mdpic.png" width="300"/> <img src="committomainpic.png" width="300"/>
-  <img src="pushtooriginpic.png" width="300"/>  
+  <img src="index.mdpic.png" width="500"/> <img src="committomainpic.png" width="500"/>
+  <img src="pushtooriginpic.png" width="500"/>  
 
-  3. ## Use Jekyll to add theme in your resume:
+
+  3. **Use Jekyll to add theme in your resume:**
 
   > According to _Etter's Book_ you should make static websites. Mainly because of their speed, simplicity, portability, and security. You can host static websites practically anywhere, as they require no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory.
 
@@ -83,11 +87,10 @@ For this tutorial, you will need two things:
   |Step 5|Click **Select Theme**|
   |Step 6|Refresh it.|
 
-  > Adding Jekyll theme will add a new file in your repository named **_config.yml**.
+  > Adding Jekyll theme will add a new file in your repository named  **_config.yml**.
   This file will hold only the name of the Jekyll theme you selected. I selected Leap Day.
 
-  <img src="settingspic.png" width="300"/> <img src="githubpagepic.png" width="300"/>
-  <img src="leapdaypic.png" width="300"/>   
+  <img src="settingspic.png" width="500"/> <img src="githubpagepic.png" width="500"/> <img src="leapdaypic.png" width="500"/>   
 
 ---
 
@@ -107,10 +110,10 @@ For this tutorial, you will need two things:
 ---
 
 # FAQs  
- **Can I get my GitHub repository on my local system?**  
+ * **Can I get my GitHub repository on my local system?**  
  Yes, you can get your repository on your local system by going to your repository in **GitHub Page** and there you should see an option to download or clone your repository. Once you do that you can use it in your own Desktop.
 
- **How do I edit a file once it's pushed to repository?**  
+ * **How do I edit a file once it's pushed to repository?**  
  Go to **GitHub Desktop** open the file that you want to edit. After editing save it. At last host the updated file again in the repository.  
 
  ---  
